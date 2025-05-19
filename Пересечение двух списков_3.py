@@ -1,4 +1,4 @@
-print("Андреев В.К. группа 1408-05\n")
+print("Андреев В.К. группа 1482-05\n")
 
 def get_common_elements():
     try:
